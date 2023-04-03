@@ -1,7 +1,7 @@
 
 <img align="right" src="https://media.tenor.com/4HHS5-SdZYIAAAAC/hi-doggy.gif">   
 
-# Hi! I'm *Leria*  :wave: | ![](https://komarev.com/ghpvc/?username=xLeria&color=blue) | 
+# Hi! I'm *Leria*  | ![](https://komarev.com/ghpvc/?username=xLeria&color=blue) | 
 
 <br>
 
