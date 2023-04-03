@@ -1,7 +1,12 @@
-# Hi! I'm *Leria*  :wave: | ![](https://komarev.com/ghpvc/?username=xLeria&color=blue) |
+<div align="center">
+   
+# Hi! I'm *Leria*  :wave: 
 
----
+ ![](https://komarev.com/ghpvc/?username=xLeria&color=blue)
 
+<br>
+Aspiring front-end developer from Poland currently focusing on learning Vanilla JS. 🌱
+<br><br>
    
 ![HTML 5](https://img.shields.io/badge/html_5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/CSS_3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -13,8 +18,8 @@
 
   
 ---
-<div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xLeria&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
   
+   
 </div>
