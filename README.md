@@ -1,10 +1,7 @@
 
 <img align="right" src="https://media.tenor.com/4HHS5-SdZYIAAAAC/hi-doggy.gif"  width="400" />   
-
-<div align="center">
  
 # Hi! I'm *Leria* 👋  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![](https://komarev.com/ghpvc/?username=xLeria&color=blue) | 
-</div>
 <br>
 
 Aspiring front-end developer from Poland.&nbsp; <img src="https://i.ibb.co/CHQv1S3/poland.png"><br>
