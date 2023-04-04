@@ -33,7 +33,7 @@
 ![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/figma-181717?style=for-the-badge&logo=figma&logoColor=AE4DFF)
 
----
+##
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xLeria&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
   
 </div>
