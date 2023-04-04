@@ -6,8 +6,7 @@
 ### Aspiring front-end developer from Poland.&nbsp; <img src="https://i.ibb.co/CHQv1S3/poland.png"><br>
 
 <br> 
-
- • 🌱 Currently focusing on learning *Vanilla JS*. 
+<p align='center'>🌱 Currently focusing on learning Vanilla JS. 🌱</p>
 <br>
 
 ### About me 🚀
@@ -17,12 +16,15 @@
 
 ---
 
-### Favourite stack
+### Tech stack
 
-![HTML 5](https://img.shields.io/badge/html_5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS 3](https://img.shields.io/badge/CSS_3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
+![HTML 5](https://img.shields.io/badge/html_5-181717?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+![CSS 3](https://img.shields.io/badge/CSS_3-181717?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/SASS-181717?style=for-the-badge&logo=sass&logoColor=CC6699)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-181717?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![GIT](https://img.shields.io/badge/git-181717?style=for-the-badge&logo=git&logoColor=F05032)
+![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![FIGMA](https://img.shields.io/badge/figma-181717?style=for-the-badge&logo=figma&logoColor=AE4DFF)
 
 <div align="center">
    
