@@ -31,7 +31,7 @@
 ![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/figma-181717?style=for-the-badge&logo=figma&logoColor=AE4DFF)
 
-##
+<!-- ##
  <br>
  
  <img align="left" src="https://media.tenor.com/7r-BGEoIohkAAAAd/meme-cat.gif"  width="400" />  
@@ -42,7 +42,8 @@
  <br>
 
   I started coding in 2022, and since then, I have been fully immersed in the world of programming. Despite being relatively new to the field, I am determined to achieve my goals and become a proficient developer.<br><br> I am excited to see where this journey takes me and to continue expanding my knowledge and skills &nbsp;🚀
- 
+ -->
+##
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xLeria&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
   
 </div>
