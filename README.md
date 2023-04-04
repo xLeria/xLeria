@@ -3,7 +3,7 @@
 
 <div align="center">
  
-# Hi! I'm *Leria* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![](https://komarev.com/ghpvc/?username=xLeria&color=blue) | 
+# Hi! I'm *Leria* 👋  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![](https://komarev.com/ghpvc/?username=xLeria&color=blue) | 
 </div>
 <br>
 
