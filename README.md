@@ -5,10 +5,12 @@
 <br>
 
 Aspiring front-end developer from Poland.&nbsp; <img src="https://i.ibb.co/CHQv1S3/poland.png"><br>
-
- • 🌱 Currently focusing on learning *Vanilla JS*. 
+ 
  <br>
-
+ 
+```diff
+ • 🌱 Currently focusing on learning *Vanilla JS*. 
+```
 
 <details>
    <summary>
