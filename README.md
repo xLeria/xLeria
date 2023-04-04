@@ -11,13 +11,14 @@
 <p align='center'>🌱 Currently focusing on learning Vanilla JS 🌱</p>
 
 
-### About me 🚀
- 
-
-•&nbsp; [<img src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png"  width="14" />&nbsp;&nbsp;Frontend Mentor](https://www.frontendmentor.io/profile/xLeria "My Frontend Mentor profile")
-
----
+<!-- ### About me 🚀 -->
 <div align="center">
+ 
+### <img src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png"  width="14" /> &nbsp;[Frontend Mentor](https://www.frontendmentor.io/profile/xLeria "My Frontend Mentor profile") &nbsp;<img src="https://seeklogo.com/images/F/frontend-mentor-logo-DD85EFE0E9-seeklogo.com.png"  width="14" />
+ 
+<br><br>
+---
+
  
 ```
 • TECH STACK •
@@ -32,10 +33,7 @@
 ![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/figma-181717?style=for-the-badge&logo=figma&logoColor=AE4DFF)
 
-
-   
 ---
-   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xLeria&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
   
 </div>
