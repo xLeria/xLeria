@@ -41,6 +41,11 @@
   I started coding in 2022, and since then, <br>I have been fully immersed in the world of programming. <br>Despite being relatively new to the field,<br> I am determined to achieve my goals and become a proficient developer.<br><br> I am excited to see where this journey takes me and to<br> continue expanding my knowledge and skills &nbsp;🚀
 
 ##
+ 
+ ```
+• GITHUB STATS •
+```
+ 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xLeria&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
   
 </div>
