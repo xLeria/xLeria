@@ -35,11 +35,15 @@
  <br>
  
  <img align="left" src="https://i.pinimg.com/564x/35/f6/3c/35f63c3c56423cd4691e1ff61cf719c4.jpg"  width="400" />  
-   
+ 
+  <br>
+ 
  ### About me
   
   I started coding in 2022, and since then, <br>I have been fully immersed in the world of programming. <br>Despite being relatively new to the field,<br> I am determined to achieve my goals and become a proficient developer.<br><br> I am excited to see where this journey takes me and to<br> continue expanding my knowledge and skills &nbsp;🚀
-<br><br><br><br><br><br><br>
+<br><br><br>
+ ![GIT](https://img.shields.io/badge/Leria_4804-181717?style=for-the-badge&logo=discord&logoColor=5865F2)
+ <br><br><br>
 
  
 ##
